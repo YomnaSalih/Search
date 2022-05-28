@@ -1,0 +1,413 @@
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\obj\Debug\Search.csproj.AssemblyReference.cache
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Search.dll.config
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Search.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Search.pdb
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\csc.exe
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\csc.exe.config
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\csc.rsp
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\csi.exe
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\csi.exe.config
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\csi.rsp
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.AppContext.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Console.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Net.Http.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\vbc.exe
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\vbc.exe.config
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\vbc.rsp
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Antlr3.Runtime.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\BouncyCastle.Crypto.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\EntityFramework.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\EntityFramework.SqlServer.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Google.Protobuf.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\HtmlAgilityPack.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\K4os.Compression.LZ4.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\K4os.Hash.xxHash.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.Security.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\MySql.Data.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Newtonsoft.Json.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Owin.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Buffers.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Data.SqlClient.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Memory.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Numerics.Vectors.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Web.Helpers.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Web.Mvc.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Web.Optimization.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Web.Razor.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Web.WebPages.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Ubiety.Dns.Core.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\WebGrease.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\ZstdNet.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Google.Protobuf.pdb
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Google.Protobuf.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\HtmlAgilityPack.pdb
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\HtmlAgilityPack.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\K4os.Compression.LZ4.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\K4os.Hash.xxHash.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\MySql.Data.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Buffers.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Data.SqlClient.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Memory.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Numerics.Vectors.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Web.Helpers.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Web.Mvc.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Web.Optimization.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Web.Razor.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Web.WebPages.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Newtonsoft.Json.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Antlr3.Runtime.pdb
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\EntityFramework.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\EntityFramework.SqlServer.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.Security.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\obj\Debug\Search.dll
+C:\Users\Mohamed El Agamawy\source\repos\Search\Search\obj\Debug\Search.pdb
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Search.dll.config
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Search.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Search.pdb
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\csc.exe
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\csc.exe.config
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\csc.rsp
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\csi.exe
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\csi.exe.config
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\csi.rsp
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.AppContext.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Collections.Immutable.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Console.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Globalization.Calendars.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.IO.Compression.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.IO.FileSystem.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Net.Http.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Net.Sockets.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Reflection.Metadata.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.ValueTuple.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Xml.XPath.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\vbc.exe
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\vbc.exe.config
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\vbc.rsp
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\VBCSCompiler.exe
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\roslyn\VBCSCompiler.exe.config
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Antlr3.Runtime.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\BouncyCastle.Crypto.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\EntityFramework.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\EntityFramework.SqlServer.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Google.Protobuf.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\HtmlAgilityPack.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\K4os.Compression.LZ4.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\K4os.Compression.LZ4.Streams.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\K4os.Hash.xxHash.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.Security.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.Security.Google.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Web.Infrastructure.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\MySql.Data.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Newtonsoft.Json.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Owin.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Buffers.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Data.SqlClient.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Memory.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Numerics.Vectors.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Web.Helpers.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Web.Mvc.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Web.Optimization.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Web.Razor.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Web.WebPages.Deployment.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Web.WebPages.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Web.WebPages.Razor.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Ubiety.Dns.Core.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\WebGrease.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\ZstdNet.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Google.Protobuf.pdb
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Google.Protobuf.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\HtmlAgilityPack.pdb
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\HtmlAgilityPack.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\K4os.Compression.LZ4.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\K4os.Compression.LZ4.Streams.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\K4os.Hash.xxHash.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\MySql.Data.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Buffers.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Data.SqlClient.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Memory.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Numerics.Vectors.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Web.Helpers.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Web.Mvc.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Web.Optimization.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Web.Razor.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Web.WebPages.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Web.WebPages.Deployment.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\System.Web.WebPages.Razor.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Newtonsoft.Json.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Antlr3.Runtime.pdb
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\EntityFramework.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\EntityFramework.SqlServer.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.Security.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.Security.Google.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Materials\Year 4 Second semester\IR\Search\Search\obj\Debug\Search.csproj.AssemblyReference.cache
+E:\Materials\Year 4 Second semester\IR\Search\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+E:\Materials\Year 4 Second semester\IR\Search\Search\obj\Debug\Search.csproj.CopyComplete
+E:\Materials\Year 4 Second semester\IR\Search\Search\obj\Debug\Search.dll
+E:\Materials\Year 4 Second semester\IR\Search\Search\obj\Debug\Search.pdb
+E:\Search\Search\bin\Search.dll.config
+E:\Search\Search\bin\Search.dll
+E:\Search\Search\bin\Search.pdb
+E:\Search\Search\bin\roslyn\csc.exe
+E:\Search\Search\bin\roslyn\csc.exe.config
+E:\Search\Search\bin\roslyn\csc.rsp
+E:\Search\Search\bin\roslyn\csi.exe
+E:\Search\Search\bin\roslyn\csi.exe.config
+E:\Search\Search\bin\roslyn\csi.rsp
+E:\Search\Search\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Search\Search\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Search\Search\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Search\Search\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Search\Search\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Search\Search\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Search\Search\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Search\Search\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Search\Search\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Search\Search\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Search\Search\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Search\Search\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Search\Search\bin\roslyn\System.AppContext.dll
+E:\Search\Search\bin\roslyn\System.Collections.Immutable.dll
+E:\Search\Search\bin\roslyn\System.Console.dll
+E:\Search\Search\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Search\Search\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Search\Search\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Search\Search\bin\roslyn\System.Globalization.Calendars.dll
+E:\Search\Search\bin\roslyn\System.IO.Compression.dll
+E:\Search\Search\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Search\Search\bin\roslyn\System.IO.FileSystem.dll
+E:\Search\Search\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Search\Search\bin\roslyn\System.Net.Http.dll
+E:\Search\Search\bin\roslyn\System.Net.Sockets.dll
+E:\Search\Search\bin\roslyn\System.Reflection.Metadata.dll
+E:\Search\Search\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Search\Search\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Search\Search\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Search\Search\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Search\Search\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Search\Search\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Search\Search\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Search\Search\bin\roslyn\System.ValueTuple.dll
+E:\Search\Search\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Search\Search\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Search\Search\bin\roslyn\System.Xml.XPath.dll
+E:\Search\Search\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Search\Search\bin\roslyn\vbc.exe
+E:\Search\Search\bin\roslyn\vbc.exe.config
+E:\Search\Search\bin\roslyn\vbc.rsp
+E:\Search\Search\bin\roslyn\VBCSCompiler.exe
+E:\Search\Search\bin\roslyn\VBCSCompiler.exe.config
+E:\Search\Search\bin\Antlr3.Runtime.dll
+E:\Search\Search\bin\BouncyCastle.Crypto.dll
+E:\Search\Search\bin\EntityFramework.dll
+E:\Search\Search\bin\EntityFramework.SqlServer.dll
+E:\Search\Search\bin\Google.Protobuf.dll
+E:\Search\Search\bin\HtmlAgilityPack.dll
+E:\Search\Search\bin\K4os.Compression.LZ4.dll
+E:\Search\Search\bin\K4os.Compression.LZ4.Streams.dll
+E:\Search\Search\bin\K4os.Hash.xxHash.dll
+E:\Search\Search\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Search\Search\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Search\Search\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Search\Search\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Search\Search\bin\Microsoft.Owin.dll
+E:\Search\Search\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Search\Search\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Search\Search\bin\Microsoft.Owin.Security.dll
+E:\Search\Search\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Search\Search\bin\Microsoft.Owin.Security.Google.dll
+E:\Search\Search\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Search\Search\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Search\Search\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Search\Search\bin\Microsoft.Web.Infrastructure.dll
+E:\Search\Search\bin\MySql.Data.dll
+E:\Search\Search\bin\MySqlConnector.dll
+E:\Search\Search\bin\Newtonsoft.Json.dll
+E:\Search\Search\bin\Owin.dll
+E:\Search\Search\bin\Porter2Stemmer.dll
+E:\Search\Search\bin\Porter2StemmerStandard.dll
+E:\Search\Search\bin\System.Buffers.dll
+E:\Search\Search\bin\System.Data.SqlClient.dll
+E:\Search\Search\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Search\Search\bin\System.Memory.dll
+E:\Search\Search\bin\System.Numerics.Vectors.dll
+E:\Search\Search\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Search\Search\bin\System.Threading.Tasks.Extensions.dll
+E:\Search\Search\bin\System.Web.Helpers.dll
+E:\Search\Search\bin\System.Web.Mvc.dll
+E:\Search\Search\bin\System.Web.Optimization.dll
+E:\Search\Search\bin\System.Web.Razor.dll
+E:\Search\Search\bin\System.Web.WebPages.Deployment.dll
+E:\Search\Search\bin\System.Web.WebPages.dll
+E:\Search\Search\bin\System.Web.WebPages.Razor.dll
+E:\Search\Search\bin\Ubiety.Dns.Core.dll
+E:\Search\Search\bin\WebGrease.dll
+E:\Search\Search\bin\ZstdNet.dll
+E:\Search\Search\bin\Google.Protobuf.pdb
+E:\Search\Search\bin\Google.Protobuf.xml
+E:\Search\Search\bin\HtmlAgilityPack.pdb
+E:\Search\Search\bin\HtmlAgilityPack.xml
+E:\Search\Search\bin\K4os.Compression.LZ4.xml
+E:\Search\Search\bin\K4os.Compression.LZ4.Streams.xml
+E:\Search\Search\bin\K4os.Hash.xxHash.xml
+E:\Search\Search\bin\MySql.Data.xml
+E:\Search\Search\bin\MySqlConnector.xml
+E:\Search\Search\bin\Porter2Stemmer.pdb
+E:\Search\Search\bin\Porter2Stemmer.xml
+E:\Search\Search\bin\System.Buffers.xml
+E:\Search\Search\bin\System.Data.SqlClient.xml
+E:\Search\Search\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Search\Search\bin\System.Memory.xml
+E:\Search\Search\bin\System.Numerics.Vectors.xml
+E:\Search\Search\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Search\Search\bin\System.Threading.Tasks.Extensions.xml
+E:\Search\Search\bin\System.Web.Helpers.xml
+E:\Search\Search\bin\System.Web.Mvc.xml
+E:\Search\Search\bin\System.Web.Optimization.xml
+E:\Search\Search\bin\System.Web.Razor.xml
+E:\Search\Search\bin\System.Web.WebPages.xml
+E:\Search\Search\bin\System.Web.WebPages.Deployment.xml
+E:\Search\Search\bin\System.Web.WebPages.Razor.xml
+E:\Search\Search\bin\Newtonsoft.Json.xml
+E:\Search\Search\bin\Antlr3.Runtime.pdb
+E:\Search\Search\bin\EntityFramework.xml
+E:\Search\Search\bin\EntityFramework.SqlServer.xml
+E:\Search\Search\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Search\Search\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Search\Search\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Search\Search\bin\Microsoft.Owin.xml
+E:\Search\Search\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Search\Search\bin\Microsoft.Owin.Security.xml
+E:\Search\Search\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Search\Search\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Search\Search\bin\Microsoft.Owin.Security.Google.xml
+E:\Search\Search\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Search\Search\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Search\Search\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Search\Search\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Search\Search\obj\Debug\Search.csprojAssemblyReference.cache
+E:\Search\Search\obj\Debug\Search.csproj.CopyComplete
+E:\Search\Search\obj\Debug\Search.dll
+E:\Search\Search\obj\Debug\Search.pdb
